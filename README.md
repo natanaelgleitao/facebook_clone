@@ -1,2 +1,2 @@
 # Facebook_clone
-facebook clone projeto de estudo
+facebook clone, projeto para estudo
